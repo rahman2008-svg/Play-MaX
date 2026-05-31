@@ -1,0 +1,6 @@
+{
+  "name": "PlayMax",
+  "description": "A modern Android Video & Music Player with background play, gesture controls, PiP, and local file scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
